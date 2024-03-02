@@ -15,7 +15,7 @@ Curiculum: MIT's computer science + engineering bachelors. [https://www.eecs.mit
 
 
 
-Languages:
+Languages:  \
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS, Bash/ZSH, 
 
 Libraries/Frameworks:
