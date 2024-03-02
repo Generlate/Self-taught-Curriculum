@@ -1,4 +1,4 @@
-#Reasons for choosing this path
+**Reasons for choosing this path**
 - I learn faster on my own than through school
 - I already have a degree
 - University is expensive
