@@ -5,7 +5,7 @@ Reasons for choosing this path:
 
 __Timeframe__ : July 2022 - July 2023
 
-Websites : [MIT OpenCourseWare](https://ocw.mit.edu/)
+*Websites* : [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 Curiculum: MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
