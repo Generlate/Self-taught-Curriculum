@@ -8,9 +8,9 @@ Using open resources, learn software engineering.
 July 2022 - July 2023
 
 ## Reasons for choosing this path
-- I learn faster on my own than through school
-- I already have a degree
-- University is over priced
+- I learn faster on my own than through school.
+- I already have a degree.
+- University is over priced.
 
 ## Curiculum
 [MIT's Computer Science + Engineering bachelors](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
@@ -130,7 +130,8 @@ Fundamentals of Software Science and Computation Structures by Christel Baier an
         Topics related to the engineering and design of database systems, including data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel and heterogeneous databases; adaptive databases; trigger Systems; pub-sub systems; semi structured data and XML querying. Lecture and readings from original research papers. Semester-long project and paper. Students taking graduate version complete different assignments. Enrollment may be limited.
 
 **Name** 6.5931 Hardware Architecture for Deep Learning  \
-**Book** https://www.deeplearningbook.org/  \
+**Book**  \
+https://www.deeplearningbook.org/  \
 [Website](http://csg.csail.mit.edu/6.5930/info.html)  \
 **Description**  \
         Introduction to the design and implementation of hardware architectures for efficient processing of deep learning algorithms in AI systems. Topics include basics of deep learning, programmable platforms, accelerators, co-optimization of algorithms and hardware, training, support for complex networks, and applications of advanced technologies. Includes labs involving modeling and analysis of hardware architecture, building systems using popular deep learning tools and platforms (CPU, GPU, FPGA), and an open-ended design project. Students taking graduate version complete additional assignments.
