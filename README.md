@@ -181,14 +181,14 @@ Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH
 - Numpy
 - Matplotlib
 - Pytorch
-- Django  \
+- Django
   
 **Javascript**
 - React
 - Next.js
 - Framer-motion
 - Three
-- Node  \
+- Node
   
 **CSS**
 - StyleX
