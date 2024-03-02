@@ -168,9 +168,9 @@ Postman, AWS, Azure, Git + Github, Vercel and npm
 - Space Invaders Game
 
 ## Coding Questions
-- Leetcode 40  
-- AlgoExpert 31  
-- FrontendExpert 36
+- Leetcode: 40  
+- AlgoExpert: 31  
+- FrontendExpert: 36
 
 
 ## Courses  
