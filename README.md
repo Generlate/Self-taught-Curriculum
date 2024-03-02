@@ -1,13 +1,13 @@
-## Reasons for choosing this path
-- I learn faster on my own than through school
-- I already have a degree
-- University is expensive
-
 ## Time Frame
 July 2022 - July 2023
 
 ## Websites
 [MIT OpenCourseWare](https://ocw.mit.edu/)
+
+## Reasons for choosing this path
+- I learn faster on my own than through school
+- I already have a degree
+- University is expensive
 
 ## Curiculum
 [MIT's Computer Science + Engineering bachelors.](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
