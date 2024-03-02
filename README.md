@@ -3,11 +3,11 @@ Reasons for choosing this path:
 - I already have a degree
 - University is expensive
 
-Timeframe: July 2022 - July 2023
+__Timeframe__ : July 2022 - July 2023
 
 Websites : [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-Curiculum: MIT's computer science + engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
+Curiculum: MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
 
 
