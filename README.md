@@ -22,7 +22,7 @@ July 2022 - July 2023
 6.100A Introduction to Computer Science Programming in Python  \
 **Book**  \
 Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press  \
-**Website**  \ 
+**Website**  \
 [https://introcomp.mit.edu/spring24](https://introcomp.mit.edu/spring24)  \
 **Description**  \
         Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Combination of 6.100A and 6.100B or 16.C20 counts as REST subject. Final given in the seventh week of the term.
