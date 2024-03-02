@@ -40,9 +40,9 @@ Postman, AWS, Azure, Git + Github, Vercel and npm
 
 ## Classes
 ### (Two programming skills subjects)
-### Name
+**Name**  \
 6.100A Introduction to Computer Science Programming in Python  \
-### Book
+**Book**  \
 Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press  \
 [Website](https://introcomp.mit.edu/spring24)  \
 **Description**  \
@@ -56,7 +56,7 @@ Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architectu
 **Description**  \
         Introduction to C and assembly language for students coming from a Python background (6.100A). Studies the C language, focusing on memory and associated topics including pointers, and how different data structures are stored in memory, the stack, and the heap in order to build a strong understanding of the constraints involved in manipulating complex data structures in modern computational systems. Studies assembly language to facilitate a firm understanding of how high-level languages are translated to machine-level instructions.
 
-**(One discrete math subject)**  \
+### (One discrete math subject)
 **Name**  \
 6.1200 Mathematics for Computer Science  \
 **Book**  \
@@ -65,7 +65,7 @@ Mathematics for Computer Science by Eric Lehman, F Thomas Leighton and Albert Me
 **Description**  \
         Elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.
 
-**(One 6-3 math subject)**  \
+### (One 6-3 math subject)
 **Name**  \
 18.06 Linear Algebra  \
 **Book**  \
@@ -74,7 +74,7 @@ Introduction to Linear Algebra by Strang, Gilbert  \
 **Description**  \
         Basic subject on matrix theory and linear algebra, emphasizing topics useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, singular value decomposition, and positive definite matrices. Applications to least-squares approximations, stability of differential equations, networks, Fourier transforms, and Markov processes. Uses linear algebra software. Compared with 18.700, more emphasis on matrix algorithms and many applications.
 
-**(Three foundation subjects)**  \
+### (Three foundation subjects)
 **Name**  \
 6.1010 Fundamentals of Programming  \
 **Book**  \
@@ -118,7 +118,7 @@ Fundamentals of Software Science and Computation Structures by Christel Baier an
 **Description:**  \
         Topics on the engineering of computer software and hardware systems: techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society. Case studies of working systems and readings from the current literature provide comparisons and contrasts. Includes a single, semester-long design project. Students engage in extensive written communication exercises. Enrollment may be limited.
 
-**(two electives from a CS track)**  \
+### (two electives from a CS track)
 **Name** 6.1060 Software Performance Engineering  \
 **Book** online engineering  \
 [Website](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)  \
@@ -131,7 +131,7 @@ Fundamentals of Software Science and Computation Structures by Christel Baier an
 **Description**  \
         Studies the design and implementation of modern, dynamic programming languages. Topics include fundamental approaches for parsing, semantics and interpretation, virtual machines, garbage collection, just-in-time machine code generation, and optimization. Includes a semester-long, group project that delivers a virtual machine that spans all of these topics. 
 
-**(two electives from a different AI+D, CS or EE Track)**  \
+### (two electives from a different AI+D, CS or EE Track)
 **Name** 6.3900 Introduction to Machine Learning  \
 **Book** Introduction to Machine Learning, Second Edition by Ethem Alpaydin  \
 [Website](https://introml.mit.edu/spring24)  \
@@ -144,7 +144,7 @@ Fundamentals of Software Science and Computation Structures by Christel Baier an
 **Description**  \
         Introduces the study of human language from a computational perspective,  including syntactic, semantic an discourse processing models. Emphasizes machine learning methods and algorithms. Uses these methods and models in applications such as syntactic parsing, information extraction, statistical machine translation, dialogue systems. Instruction and practice in oral and written communication provided. Students taking graduate version complete additional assignments.
 
-**(two electives from EECS)**  \
+### (two electives from EECS)
 **Name** 6.5831 Database Systems  \
 **Book** Readings In Database Systems, Fourth Edition edited by Joesph M. Hellerstein and Michael Stonebraker  \
 [Website](https://dsg.csail.mit.edu/6.5830/syllabus.php)  \
