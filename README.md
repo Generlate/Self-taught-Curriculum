@@ -12,12 +12,6 @@ July 2022 - July 2023
 **Curiculum**  \
 MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
-
-
-
-
-
-
 **Languages**  \
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH 
 
@@ -28,24 +22,21 @@ Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH
 **Tools**  \
 Postman, AWS, Azure, Git + Github, Vercel and npm, 
 
-**Projects**  \
-- generlate.com  \
-- austencabret.com  \
-- building-code-consultant  \
+**Projects**  
+- generlate.com  
+- austencabret.com  
+- building-code-consultant  
 - Space Invaders Game
 
-**Coding Questions**  \
-- Leetcode 40  \
-- AlgoExpert 31  \
+**Coding Questions**  
+- Leetcode 40  
+- AlgoExpert 31  
 - FrontendExpert 36
 
 
-**Courses**  \
-- AlgoExpert  \
+**Courses**  
+- AlgoExpert  
 - FrontendExpert
-
-
-
 
 **Classes**  \
 (Two programming skills subjects)  \
@@ -55,41 +46,41 @@ Postman, AWS, Azure, Git + Github, Vercel and npm,
 **Description:**  \
         Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Combination of 6.100A and 6.100B or 16.C20 counts as REST subject. Final given in the seventh week of the term.
 
-Name: 6.1900 Introduction to Low Level Programming in C and Assembly  \
-Book: Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture 1st ed. Edition by Igor Zhirkov  \
+**Name:** 6.1900 Introduction to Low Level Programming in C and Assembly  \
+**Book:** Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture 1st ed. Edition by Igor Zhirkov  \
 [Website] N/A  \
-Description:  \
+**Description:**  \
         Introduction to C and assembly language for students coming from a Python background (6.100A). Studies the C language, focusing on memory and associated topics including pointers, and how different data structures are stored in memory, the stack, and the heap in order to build a strong understanding of the constraints involved in manipulating complex data structures in modern computational systems. Studies assembly language to facilitate a firm understanding of how high-level languages are translated to machine-level instructions.
 
 (One discrete math subject)  \
-Name: 6.1200 Mathematics for Computer Science  \
-Book: Mathematics for Computer Science by Eric Lehman, F Thomas Leighton and Albert Meyer (pdf online)  \
+**Name:** 6.1200 Mathematics for Computer Science  \
+**Book:** Mathematics for Computer Science by Eric Lehman, F Thomas Leighton and Albert Meyer (pdf online)  \
 [Website](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)  \
-Description:  \
+**Description:**  \
         Elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.
 
 (One 6-3 math subject)  \
-Name: 18.06 Linear Algebra  \
-Book: Introduction to Linear Algebra by Strang, Gilbert  \
+**Name:** 18.06 Linear Algebra  \
+**Book:** Introduction to Linear Algebra by Strang, Gilbert  \
 [Website](https://web.mit.edu/18.06/www/)  \
-Description:  \
+**Description:**  \
         Basic subject on matrix theory and linear algebra, emphasizing topics useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, singular value decomposition, and positive definite matrices. Applications to least-squares approximations, stability of differential equations, networks, Fourier transforms, and Markov processes. Uses linear algebra software. Compared with 18.700, more emphasis on matrix algorithms and many applications.
 
 (Three foundation subjects)  \
-Name: 6.1010 Fundamentals of Programming  \
-Book: Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mitchell Wand  \
+**Name:** 6.1010 Fundamentals of Programming  \
+**Book:** Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mitchell Wand  \
 [Website](https://py.mit.edu/spring24)  \
-Description:  \
+**Description:**  \
         Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion.  Lab component consists of software design, construction, and implementation of design. Enrollment may be limited.
 
-Name: 6.1210 Introduction to Algorithms  \
-Book: Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald :.; Stein, Clifford  \
+**Name:** 6.1210 Introduction to Algorithms  \
+**Book:** Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald :.; Stein, Clifford  \
 [Website](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)  \
-Description:  \
+**Description:**  \
         Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. Enrollment may be limited.
 
-Name: 6.1910 Computation Structures  \
-Book: Fundamentals of Software Science and Computation Structures by Christel Baier and Ugo Dal Lago  \
+**Name:** 6.1910 Computation Structures  \
+**Book:** Fundamentals of Software Science and Computation Structures by Christel Baier and Ugo Dal Lago  \
 [Website](https://6191.mit.edu/spring24)  \
 Description:  \
         Provides an introduction to the design of digital systems and computer architecture. Emphasizes expressing all hardware designs in a high-level hardware language and synthesizing the designs. Topics include combinational and sequential circuits, instruction set abstraction for programmable hardware, single-cycle and pipelined processor implementations, multi-level memory hierarchies, virtual memory, exceptions and I/O, and parallel systems.
