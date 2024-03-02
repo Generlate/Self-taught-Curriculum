@@ -1,4 +1,4 @@
-**Reasons for choosing this path**
+# Reasons for choosing this path
 - I learn faster on my own than through school
 - I already have a degree
 - University is expensive
@@ -10,7 +10,7 @@ July 2022 - July 2023
 [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 **Curiculum**  \
-MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
+[MIT's Computer Science + Engineering bachelors.](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
 **Languages**  \
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH 
@@ -20,7 +20,7 @@ Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH
     Javascript: React, Next.js, StyleX, Framer-motion, Three, React and Node
 
 **Tools**  \
-Postman, AWS, Azure, Git + Github, Vercel and npm, 
+Postman, AWS, Azure, Git + Github, Vercel and npm
 
 **Projects**  
 - generlate.com  
@@ -38,8 +38,8 @@ Postman, AWS, Azure, Git + Github, Vercel and npm,
 - AlgoExpert  
 - FrontendExpert
 
-**Classes**  \
-**(Two programming skills subjects)**  \
+# Classes
+## (Two programming skills subjects)
 **Name**  \
 6.100A Introduction to Computer Science Programming in Python  \
 **Book**  \
