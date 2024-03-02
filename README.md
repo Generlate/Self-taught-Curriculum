@@ -173,7 +173,16 @@ https://www.deeplearningbook.org/  \
 
 
 ## Languages
-Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH 
+- Java
+- SQL
+- Python
+- C++
+- Javascript
+- (React)
+- Typescript
+- HTML
+- CSS
+- Bash/ZSH 
 
 ## Libraries/Frameworks
 **Python**
