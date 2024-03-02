@@ -31,7 +31,7 @@ Guttag, John. Introdction to Computation and Programming Using Python, Third Edi
 6.1900 Introduction to Low Level Programming in C and Assembly  \
 **Book**  \
 Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture 1st ed. Edition by Igor Zhirkov  \
-**Website**  \ 
+**Website**  \
 N/A  \
 **Description**  \
         Introduction to C and assembly language for students coming from a Python background (6.100A). Studies the C language, focusing on memory and associated topics including pointers, and how different data structures are stored in memory, the stack, and the heap in order to build a strong understanding of the constraints involved in manipulating complex data structures in modern computational systems. Studies assembly language to facilitate a firm understanding of how high-level languages are translated to machine-level instructions.
