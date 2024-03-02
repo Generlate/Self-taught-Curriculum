@@ -3,38 +3,38 @@
 - I already have a degree
 - University is expensive
 
-**Time Frame**  \
+## Time Frame
 July 2022 - July 2023
 
-**Websites** \
+## Websites
 [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-**Curiculum**  \
+## Curiculum
 [MIT's Computer Science + Engineering bachelors.](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
-**Languages**  \
+## Languages
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH 
 
-**Libraries/Frameworks**  \
+## Libraries/Frameworks
     Python: Pandas, Numpy, Matplotlib, Pytorch and Django  \
     Javascript: React, Next.js, StyleX, Framer-motion, Three, React and Node
 
-**Tools**  \
+## Tools
 Postman, AWS, Azure, Git + Github, Vercel and npm
 
-**Projects**  
+## Projects  
 - generlate.com  
 - austencabret.com  
 - building-code-consultant  
 - Space Invaders Game
 
-**Coding Questions**  
+## Coding Questions
 - Leetcode 40  
 - AlgoExpert 31  
 - FrontendExpert 36
 
 
-**Courses**  
+## Courses  
 - AlgoExpert  
 - FrontendExpert
 
@@ -157,4 +157,4 @@ Fundamentals of Software Science and Computation Structures by Christel Baier an
 **Description**  \
         Introduction to the design and implementation of hardware architectures for efficient processing of deep learning algorithms in AI systems. Topics include basics of deep learning, programmable platforms, accelerators, co-optimization of algorithms and hardware, training, support for complex networks, and applications of advanced technologies. Includes labs involving modeling and analysis of hardware architecture, building systems using popular deep learning tools and platforms (CPU, GPU, FPGA), and an open-ended design project. Students taking graduate version complete additional assignments.
 
-credits = 48
+**credits = 48**
