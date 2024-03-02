@@ -1,4 +1,4 @@
-# Reasons for choosing this path
+## Reasons for choosing this path
 - I learn faster on my own than through school
 - I already have a degree
 - University is expensive
@@ -38,8 +38,8 @@ Postman, AWS, Azure, Git + Github, Vercel and npm
 - AlgoExpert  
 - FrontendExpert
 
-# Classes
-## (Two programming skills subjects)
+## Classes
+### (Two programming skills subjects)
 **Name**  \
 6.100A Introduction to Computer Science Programming in Python  \
 **Book**  \
