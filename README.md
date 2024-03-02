@@ -21,7 +21,7 @@ July 2022 - July 2023
 **Name**  \
 6.100A Introduction to Computer Science Programming in Python  \
 **Book**  \
-Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press  \
+Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press
 ### Website 
 [https://introcomp.mit.edu/spring24](https://introcomp.mit.edu/spring24)  \
 **Description**  \
@@ -30,7 +30,7 @@ Guttag, John. Introdction to Computation and Programming Using Python, Third Edi
 **Name**  \
 6.1900 Introduction to Low Level Programming in C and Assembly  \
 **Book**  \
-Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture 1st ed. Edition by Igor Zhirkov  \
+Low-Level Programming: C, Assembly, and Program Execution on Intel 64 Architecture 1st ed. Edition by Igor Zhirkov
 ### Website 
 N/A  \
 **Description**  \
@@ -40,7 +40,7 @@ N/A  \
 **Name**  \
 6.1200 Mathematics for Computer Science  \
 **Book**  \
-Mathematics for Computer Science by Eric Lehman, F Thomas Leighton and Albert Meyer (pdf online)  \
+Mathematics for Computer Science by Eric Lehman, F Thomas Leighton and Albert Meyer (pdf online)
 ### Website
 [https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)  \
 **Description**  \
@@ -50,7 +50,7 @@ Mathematics for Computer Science by Eric Lehman, F Thomas Leighton and Albert Me
 **Name**  \
 18.06 Linear Algebra  \
 **Book**  \
-Introduction to Linear Algebra by Strang, Gilbert  \
+Introduction to Linear Algebra by Strang, Gilbert
 ### Website
 [https://web.mit.edu/18.06/www/](https://web.mit.edu/18.06/www/)  \
 **Description**  \
@@ -60,7 +60,7 @@ Introduction to Linear Algebra by Strang, Gilbert  \
 **Name**  \
 6.1010 Fundamentals of Programming  \
 **Book**  \
-Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mitchell Wand  \
+Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mitchell Wand
 ### Website
 [https://py.mit.edu/spring24](https://py.mit.edu/spring24)  \
 **Description**  \
@@ -69,7 +69,7 @@ Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mit
 **Name**  \
 6.1210 Introduction to Algorithms  \
 **Book**  \
-Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald :.; Stein, Clifford  \
+Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald :.; Stein, Clifford
 ### Website
 [https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)  \
 **Description**  \
@@ -78,7 +78,7 @@ Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Char
 **Name**  \
 6.1910 Computation Structures  \
 **Book**  \
-Fundamentals of Software Science and Computation Structures by Christel Baier and Ugo Dal Lago  \
+Fundamentals of Software Science and Computation Structures by Christel Baier and Ugo Dal Lago
 ### Website
 [https://6191.mit.edu/spring24](https://6191.mit.edu/spring24)  \
 **Description**  \
@@ -88,7 +88,7 @@ Fundamentals of Software Science and Computation Structures by Christel Baier an
 **Name**  \
 6.1020 Elements of Software Construction  \
 **Book**  \
-online handouts  \
+online handouts
 ### Website
 [https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/](https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/)  \
 **Description**  \
@@ -97,7 +97,7 @@ online handouts  \
 **Name**  \
 6.1220 Design and Analysis of Algorithms  \
 **Book**  \
-Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald :.; Stein, Clifford  \
+Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Charles E.; Rivest, Ronald :.; Stein, Clifford
 ### Website
 [https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)  \
 **Description**  \
@@ -106,7 +106,7 @@ Introduction to Algorithms, Fourth Edition by Cormen, Thomas H.; Leiserson, Char
 **Name**  \
 6.1800 Computer Systems Engineering  \
 **Book**  \
-Saltzer; Jerome H. and M Frans Kaashoek. Principles of Computer System Design: An Introduction, Part 1. Morgan Kaufmann, 2009.  \
+Saltzer; Jerome H. and M Frans Kaashoek. Principles of Computer System Design: An Introduction, Part 1. Morgan Kaufmann, 2009.
 ### Website
 [https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)  \
 **Description:**  \
@@ -116,7 +116,7 @@ Saltzer; Jerome H. and M Frans Kaashoek. Principles of Computer System Design: A
 **Name**  \
 6.1060 Software Performance Engineering  \
 **Book**  \
-online engineering  \
+online engineering
 ### Website
 [https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)  \
 **Description**  \
@@ -125,7 +125,7 @@ online engineering  \
 **Name**  \
 6.1120 Dynamic Computer Language Engineering  \
 **Book**  \
-Modern Compiler Implementation in Java (Tiger Book) by Andrew W. Appel and Jens Palsberg  \
+Modern Compiler Implementation in Java (Tiger Book) by Andrew W. Appel and Jens Palsberg
 ### Website
 [http://6.s081.scripts.mit.edu/sp18/index.html](http://6.s081.scripts.mit.edu/sp18/index.html)  \
 **Description**  \
@@ -135,7 +135,7 @@ Modern Compiler Implementation in Java (Tiger Book) by Andrew W. Appel and Jens 
 **Name**  \
 6.3900 Introduction to Machine Learning  \
 **Book**  \
-Introduction to Machine Learning, Second Edition by Ethem Alpaydin  \
+Introduction to Machine Learning, Second Edition by Ethem Alpaydin
 ### Website
 [https://introml.mit.edu/spring24](https://introml.mit.edu/spring24)  \
 **Description:**  \
@@ -144,7 +144,7 @@ Introduction to Machine Learning, Second Edition by Ethem Alpaydin  \
 **Name**  \
 6.8611 Quantitative Methods for Natural Language Processing  \
 **Book**  \
-online resources  \
+online resources
 ### Website
 [https://mit-6861.github.io/](https://mit-6861.github.io/)  \
 **Description**  \
@@ -154,7 +154,7 @@ online resources  \
 **Name**  \
 6.5831 Database Systems  \
 **Book**  \
-Readings In Database Systems, Fourth Edition edited by Joesph M. Hellerstein and Michael Stonebraker  \
+Readings In Database Systems, Fourth Edition edited by Joesph M. Hellerstein and Michael Stonebraker
 ### Website
 [https://dsg.csail.mit.edu/6.5830/syllabus.php](https://dsg.csail.mit.edu/6.5830/syllabus.php)  \
 **Description:**  \
@@ -163,7 +163,7 @@ Readings In Database Systems, Fourth Edition edited by Joesph M. Hellerstein and
 **Name**  \
 6.5931 Hardware Architecture for Deep Learning  \
 **Book**  \
-https://www.deeplearningbook.org/  \
+https://www.deeplearningbook.org/
 ### Website
 [http://csg.csail.mit.edu/6.5930/info.html](http://csg.csail.mit.edu/6.5930/info.html)  \
 **Description**  \
