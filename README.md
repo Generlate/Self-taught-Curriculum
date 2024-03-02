@@ -40,9 +40,9 @@ Postman, AWS, Azure, Git + Github, Vercel and npm
 
 ## Classes
 ### (Two programming skills subjects)
-**Name**  \
+### Name
 6.100A Introduction to Computer Science Programming in Python  \
-**Book**  \
+### Book
 Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press  \
 [Website](https://introcomp.mit.edu/spring24)  \
 **Description**  \
