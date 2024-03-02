@@ -1,21 +1,24 @@
-**Reasons for choosing this path:**
+**Reasons for choosing this path**
 - I learn faster on my own than through school
 - I already have a degree
 - University is expensive
 
-**Timeframe** : July 2022 - July 2023
+**Timeframe**  \
+July 2022 - July 2023
 
-**Websites** : [MIT OpenCourseWare](https://ocw.mit.edu/)
+**Websites** \
+[MIT OpenCourseWare](https://ocw.mit.edu/)
 
-**Curiculum**: MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
-
-
-
-
-
+**Curiculum**  \
+MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
 
-**Languages:**  \
+
+
+
+
+
+**Languages**  \
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS, Bash/ZSH, 
 
 **Libraries/Frameworks**  \
@@ -25,29 +28,21 @@ Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS, Bash/ZSH,
 **Tools**  \
 Postman, AWS, Azure, Git + Github, Vercel, npm, 
 
-**Projects:**  \
+**Projects**  \
 generlate.com  \
 austencabret.com  \
 building-code-consultant  \
 Space Invaders Game
 
-**Coding Questions:**  \
+**Coding Questions**  \
 Leetcode 40  \
 AlgoExpert 31  \
 FrontendExpert 36
 
 
-**Courses:**  \
+**Courses**  \
 AlgoExpert  \
 FrontendExpert
-
-
-
-Classes  \
-Name:  \
-Book:  \
-Website:  \
-Description:
 
 
 
