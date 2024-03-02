@@ -3,7 +3,7 @@
 - I already have a degree
 - University is expensive
 
-**Timeframe**  \
+**Time Frame**  \
 July 2022 - July 2023
 
 **Websites** \
@@ -19,30 +19,30 @@ MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academ
 
 
 **Languages**  \
-Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS, Bash/ZSH, 
+Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH 
 
 **Libraries/Frameworks**  \
-    Python: Pandas, Numpy, Matplotlib, Pytorch, Django  \
-    Javascript: React, Next.js, StyleX, Framer-motion, Three, React, Node
+    Python: Pandas, Numpy, Matplotlib, Pytorch and Django  \
+    Javascript: React, Next.js, StyleX, Framer-motion, Three, React and Node
 
 **Tools**  \
-Postman, AWS, Azure, Git + Github, Vercel, npm, 
+Postman, AWS, Azure, Git + Github, Vercel and npm, 
 
 **Projects**  \
-generlate.com  \
-austencabret.com  \
-building-code-consultant  \
-Space Invaders Game
+- generlate.com  \
+- austencabret.com  \
+- building-code-consultant  \
+- Space Invaders Game
 
 **Coding Questions**  \
-Leetcode 40  \
-AlgoExpert 31  \
-FrontendExpert 36
+- Leetcode 40  \
+- AlgoExpert 31  \
+- FrontendExpert 36
 
 
 **Courses**  \
-AlgoExpert  \
-FrontendExpert
+- AlgoExpert  \
+- FrontendExpert
 
 
 
@@ -50,7 +50,7 @@ FrontendExpert
 **Classes**  \
 (Two programming skills subjects)  \
 **Name:** 6.100A Introduction to Computer Science Programming in Python  \
-**Book:** Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press
+**Book:** Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press  \
 [Website](https://introcomp.mit.edu/spring24)  \
 **Description:**  \
         Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Combination of 6.100A and 6.100B or 16.C20 counts as REST subject. Final given in the seventh week of the term.
@@ -77,7 +77,7 @@ Description:  \
 
 (Three foundation subjects)  \
 Name: 6.1010 Fundamentals of Programming  \
-Book: Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mitchell Wand
+Book: Essentials of Programming Languages. Third Edition by Daniel P. Friedman and Mitchell Wand  \
 [Website](https://py.mit.edu/spring24)  \
 Description:  \
         Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion.  Lab component consists of software design, construction, and implementation of design. Enrollment may be limited.
@@ -147,7 +147,7 @@ Description:  \
         Topics related to the engineering and design of database systems, including data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel and heterogeneous databases; adaptive databases; trigger Systems; pub-sub systems; semi structured data and XML querying. Lecture and readings from original research papers. Semester-long project and paper. Students taking graduate version complete different assignments. Enrollment may be limited.
 
 Name: 6.5931 Hardware Architecture for Deep Learning  \
-Book: [book](https://www.deeplearningbook.org/)  \
+Book: https://www.deeplearningbook.org/  \
 [Website](http://csg.csail.mit.edu/6.5930/info.html)  \
 Description:  \
         Introduction to the design and implementation of hardware architectures for efficient processing of deep learning algorithms in AI systems. Topics include basics of deep learning, programmable platforms, accelerators, co-optimization of algorithms and hardware, training, support for complex networks, and applications of advanced technologies. Includes labs involving modeling and analysis of hardware architecture, building systems using popular deep learning tools and platforms (CPU, GPU, FPGA), and an open-ended design project. Students taking graduate version complete additional assignments.
