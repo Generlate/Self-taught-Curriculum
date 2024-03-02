@@ -1,43 +1,43 @@
-Reasons for choosing this path:
+**Reasons for choosing this path:**
 - I learn faster on my own than through school
 - I already have a degree
 - University is expensive
 
-__Timeframe__ : July 2022 - July 2023
+**Timeframe** : July 2022 - July 2023
 
-*Websites* : [MIT OpenCourseWare](https://ocw.mit.edu/)
+**Websites** : [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-Curiculum: MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
-
-
+**Curiculum**: MIT's Computer Science + Engineering bachelors. [https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/)
 
 
 
 
 
-Languages:  \
+
+
+**Languages:**  \
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS, Bash/ZSH, 
 
-Libraries/Frameworks  \
+**Libraries/Frameworks**  \
     Python: Pandas, Numpy, Matplotlib, Pytorch, Django  \
     Javascript: React, Next.js, StyleX, Framer-motion, Three, React, Node
 
-Tools  \
+**Tools**  \
 Postman, AWS, Azure, Git + Github, Vercel, npm, 
 
-Projects:  \
+**Projects:**  \
 generlate.com  \
 austencabret.com  \
 building-code-consultant  \
 Space Invaders Game
 
-Coding Questions:  \
+**Coding Questions:**  \
 Leetcode 40  \
 AlgoExpert 31  \
 FrontendExpert 36
 
 
-Courses:  \
+**Courses:**  \
 AlgoExpert  \
 FrontendExpert
 
@@ -52,12 +52,12 @@ Description:
 
 
 
-Classes  \
+**Classes**  \
 (Two programming skills subjects)  \
-Name: 6.100A Introduction to Computer Science Programming in Python  \
-Book: Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press
+**Name:** 6.100A Introduction to Computer Science Programming in Python  \
+**Book:** Guttag, John. Introdction to Computation and Programming Using Python, Third Edition, With Application to Computational Modeling and Understanding Data, MIT Press
 [Website](https://introcomp.mit.edu/spring24)  \
-Description:  \
+**Description:**  \
         Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Combination of 6.100A and 6.100B or 16.C20 counts as REST subject. Final given in the seventh week of the term.
 
 Name: 6.1900 Introduction to Low Level Programming in C and Assembly  \
