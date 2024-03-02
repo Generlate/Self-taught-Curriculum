@@ -143,8 +143,20 @@ https://www.deeplearningbook.org/  \
 Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH 
 
 ## Libraries/Frameworks
-    Python: Pandas, Numpy, Matplotlib, Pytorch and Django  \
-    Javascript: React, Next.js, StyleX, Framer-motion, Three, React and Node
+**Python**
+- Pandas
+- Numpy
+- Matplotlib
+- Pytorch
+- Django
+**Javascript**
+- React
+- Next.js
+- Framer-motion
+- Three
+- Node
+**CSS**
+- StyleX
 
 ## Tools
 Postman, AWS, Azure, Git + Github, Vercel and npm
