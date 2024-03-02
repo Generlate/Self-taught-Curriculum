@@ -192,7 +192,13 @@ Java, SQL, Python, C++, Javascript (React), Typescript, HTML, CSS and Bash/ZSH
 - StyleX
 
 ## Tools
-Postman, AWS, Azure, Git + Github, Vercel and npm
+- Postman
+- AWS
+- Azure
+- Git
+- Github
+- Vercel
+- npm
 
 ## Projects  
 - generlate.com  
