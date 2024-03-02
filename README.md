@@ -1,3 +1,6 @@
+## Plan
+Using open resources, take one year to learn software engineering.
+
 ## Websites
 [MIT OpenCourseWare](https://ocw.mit.edu/)
 
